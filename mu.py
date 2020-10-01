@@ -1,4 +1,4 @@
-
+# Music player in python
 from pygame import mixer
 mixer.init()
 # --------------------------Path of your music
